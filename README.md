@@ -2,6 +2,8 @@
 
 An interactive art experinecne which uses the Leap Motion device.
 
+[Short description](https://github.com/alexmusial/Fireflies-experience/blob/master/Fireflies%20Experience%20Summary.pdf)
+
 ---
 ### Technologies ###
 
@@ -11,8 +13,8 @@ An interactive art experinecne which uses the Leap Motion device.
 
 ---
 
-### Instalation ###
-To take part in this experience, the Leap Motion device is necessary. Then, you just have to download the exe file, and you are all set to go! :smiley:
+### Installation ###
+To take part in this experience, the Leap Motion device is necessary. Then, you just have to download [this file](https://github.com/alexmusial/Fireflies-experience/blob/master/Fireflies%20Experience.exe), and you are all set to go! :smiley:
 
 ---
 
