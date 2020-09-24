@@ -8,6 +8,10 @@ An interactive art experinecne which uses the Leap Motion device.
 * Leap Motion Controller Version 4.0
 * Projector APEMAN LC350   
 
+### Instalation ###
+To take part in this experience, the Leap Motion device is necessary.
 
+### Video ###
 
-![10](https://user-images.githubusercontent.com/51957768/94061953-fc41ec80-fddd-11ea-8e1d-5fe3a07d2b69.jpg)
+https://player.vimeo.com/video/447828739
+
